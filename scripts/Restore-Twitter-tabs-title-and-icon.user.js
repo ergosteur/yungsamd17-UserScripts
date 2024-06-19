@@ -3,10 +3,10 @@
 // @description  Restores Twitter tab's title and icon on twitter.com (Now X i guess)
 // @version      1.1
 // @author       yungsamd17
-// @namespace    https://github.com/yungsamd17/UserScripts
+// @namespace    https://github.com/ergosteur/yungsamd17-UserScripts
 // @license      MIT License
-// @downloadURL  https://github.com/yungsamd17/UserScripts/raw/main/scripts/Restore-Twitter-tabs-title-and-icon.user.js
-// @updateURL    https://github.com/yungsamd17/UserScripts/raw/main/scripts/Restore-Twitter-tabs-title-and-icon.user.js
+// @downloadURL  https://github.com/ergosteur/yungsamd17-UserScripts/raw/main/scripts/Restore-Twitter-tabs-title-and-icon.user.js
+// @updateURL    https://github.com/ergosteur/yungsamd17-UserScripts/raw/main/scripts/Restore-Twitter-tabs-title-and-icon.user.js
 // @icon         https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png
 // @match        https://twitter.com/*
 // @match        https://x.com/*
